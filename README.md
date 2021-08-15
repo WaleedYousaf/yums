@@ -22,3 +22,7 @@ Stack (Tools and Technologies):
   - <b>Adobe Photoshop & Illustrator</b> - Designing and editing gallery images and icons
   - <b>GitBash</b> - Version Control
   - <b>Figma</b> - Prototyping/Mockups
+
+In Action:
+-------------------------------
+![yumz main](https://user-images.githubusercontent.com/44428566/129481612-ea9c382b-bcf4-4401-af23-6c372fc32bc2.jpg)
