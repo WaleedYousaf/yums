@@ -6,7 +6,9 @@ Brief:
 
 YUMZ is a JavaScript and PHP based food ordering system. The customers can
 view the food catalog and add item to cart. They can then checkout and get 
-a receipt for their order
+a receipt for their order.
+
+The project was created in 2017.
 
 Stack (Tools and Technologies):
 -------------------------------
